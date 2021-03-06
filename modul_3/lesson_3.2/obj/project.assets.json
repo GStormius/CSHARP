@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_3\\modul_3\\lesson_3.2\\lesson_3.2.csproj",
+      "projectUniqueName": "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_3\\lesson_3.2\\lesson_3.2.csproj",
       "projectName": "lesson_3.2",
-      "projectPath": "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_3\\modul_3\\lesson_3.2\\lesson_3.2.csproj",
+      "projectPath": "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_3\\lesson_3.2\\lesson_3.2.csproj",
       "packagesPath": "C:\\Users\\mrnik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_3\\modul_3\\lesson_3.2\\obj\\",
+      "outputPath": "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_3\\lesson_3.2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mrnik\\AppData\\Roaming\\NuGet\\NuGet.Config",

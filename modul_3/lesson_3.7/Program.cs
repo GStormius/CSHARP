@@ -10,7 +10,7 @@ namespace lesson_3._7
             string name = Console.ReadLine();
 
             Console.Write("Enter your age: ");
-            int age = int.Parse(Console.ReadLine());
+            int.TryParse(Console.ReadLine(), out int age);
 
             Console.WriteLine("Your name is {0} and age is {1}", name, age);
 

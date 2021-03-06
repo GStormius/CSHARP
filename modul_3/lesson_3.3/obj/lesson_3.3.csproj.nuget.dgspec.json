@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_3\\modul_3\\lesson_3.3\\lesson_3.3.csproj": {}
+    "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_3\\lesson_3.3\\lesson_3.3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_3\\modul_3\\lesson_3.3\\lesson_3.3.csproj": {
+    "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_3\\lesson_3.3\\lesson_3.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_3\\modul_3\\lesson_3.3\\lesson_3.3.csproj",
+        "projectUniqueName": "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_3\\lesson_3.3\\lesson_3.3.csproj",
         "projectName": "lesson_3.3",
-        "projectPath": "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_3\\modul_3\\lesson_3.3\\lesson_3.3.csproj",
+        "projectPath": "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_3\\lesson_3.3\\lesson_3.3.csproj",
         "packagesPath": "C:\\Users\\mrnik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_3\\modul_3\\lesson_3.3\\obj\\",
+        "outputPath": "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_3\\lesson_3.3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mrnik\\AppData\\Roaming\\NuGet\\NuGet.Config",
