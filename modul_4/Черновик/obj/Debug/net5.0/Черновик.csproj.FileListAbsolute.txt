@@ -1,0 +1,15 @@
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\Черновик\bin\Debug\net5.0\Черновик.exe
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\Черновик\bin\Debug\net5.0\Черновик.deps.json
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\Черновик\bin\Debug\net5.0\Черновик.runtimeconfig.json
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\Черновик\bin\Debug\net5.0\Черновик.runtimeconfig.dev.json
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\Черновик\bin\Debug\net5.0\Черновик.dll
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\Черновик\bin\Debug\net5.0\ref\Черновик.dll
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\Черновик\bin\Debug\net5.0\Черновик.pdb
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\Черновик\obj\Debug\net5.0\Черновик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\Черновик\obj\Debug\net5.0\Черновик.AssemblyInfoInputs.cache
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\Черновик\obj\Debug\net5.0\Черновик.AssemblyInfo.cs
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\Черновик\obj\Debug\net5.0\Черновик.csproj.CoreCompileInputs.cache
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\Черновик\obj\Debug\net5.0\Черновик.dll
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\Черновик\obj\Debug\net5.0\ref\Черновик.dll
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\Черновик\obj\Debug\net5.0\Черновик.pdb
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\Черновик\obj\Debug\net5.0\Черновик.genruntimeconfig.cache

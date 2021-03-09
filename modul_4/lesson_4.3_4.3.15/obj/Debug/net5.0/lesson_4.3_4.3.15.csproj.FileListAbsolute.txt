@@ -1,0 +1,15 @@
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\lesson_4.3_4.3.15\bin\Debug\net5.0\lesson_4.3_4.3.15.exe
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\lesson_4.3_4.3.15\bin\Debug\net5.0\lesson_4.3_4.3.15.deps.json
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\lesson_4.3_4.3.15\bin\Debug\net5.0\lesson_4.3_4.3.15.runtimeconfig.json
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\lesson_4.3_4.3.15\bin\Debug\net5.0\lesson_4.3_4.3.15.runtimeconfig.dev.json
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\lesson_4.3_4.3.15\bin\Debug\net5.0\lesson_4.3_4.3.15.dll
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\lesson_4.3_4.3.15\bin\Debug\net5.0\ref\lesson_4.3_4.3.15.dll
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\lesson_4.3_4.3.15\bin\Debug\net5.0\lesson_4.3_4.3.15.pdb
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\lesson_4.3_4.3.15\obj\Debug\net5.0\lesson_4.3_4.3.15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\lesson_4.3_4.3.15\obj\Debug\net5.0\lesson_4.3_4.3.15.AssemblyInfoInputs.cache
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\lesson_4.3_4.3.15\obj\Debug\net5.0\lesson_4.3_4.3.15.AssemblyInfo.cs
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\lesson_4.3_4.3.15\obj\Debug\net5.0\lesson_4.3_4.3.15.csproj.CoreCompileInputs.cache
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\lesson_4.3_4.3.15\obj\Debug\net5.0\lesson_4.3_4.3.15.dll
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\lesson_4.3_4.3.15\obj\Debug\net5.0\ref\lesson_4.3_4.3.15.dll
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\lesson_4.3_4.3.15\obj\Debug\net5.0\lesson_4.3_4.3.15.pdb
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_4\lesson_4.3_4.3.15\obj\Debug\net5.0\lesson_4.3_4.3.15.genruntimeconfig.cache
