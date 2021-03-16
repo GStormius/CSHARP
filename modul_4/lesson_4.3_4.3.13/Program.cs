@@ -12,7 +12,7 @@ namespace lesson_4._3_4._3._13
             }
 
             Console.WriteLine();
-        }  // Вывод элементов массива на консоль
+        }  
 
         static int getSumElementsArray(int[] arr)
         {
@@ -24,7 +24,7 @@ namespace lesson_4._3_4._3._13
             }
 
             return sum;
-        }  // Нахождение суммы элементов массива
+        }  
 
         static void Main(string[] args)
         {

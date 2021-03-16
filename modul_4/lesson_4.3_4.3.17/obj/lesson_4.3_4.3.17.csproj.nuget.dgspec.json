@@ -13,8 +13,12 @@
         "packagesPath": "C:\\Users\\mrnik\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mrnik\\Desktop\\C#\\CSHARP_SkillFactory\\modul_4\\lesson_4.3_4.3.17\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\mrnik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

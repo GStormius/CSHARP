@@ -14,7 +14,7 @@ namespace lesson_5._1
             синий = blue,
             cyan = 3,
             голубой = cyan 
-        };  // Перечисление с возможными цветами
+        };  
 
 
         static string ShoWColor()
@@ -30,7 +30,7 @@ namespace lesson_5._1
             }
             catch (Exception)
             {
-                Console.WriteLine("Вы ввели некорректное значение цвета. Будем применено стандартное решение!"); ;
+                Console.WriteLine("Вы ввели некорректное значение цвета. Будем применено стандартное решение!");
             }
 
             switch (color)
@@ -81,7 +81,7 @@ namespace lesson_5._1
             Console.WriteLine();
 
             return inputColor;
-        }  // Меняет цвета консоли. Возвращает введенный пользователем цвет из перечисления NewColor
+        }  
 
 
         static void ShowArray(string [] arr)
@@ -90,7 +90,7 @@ namespace lesson_5._1
             {
                 Console.WriteLine("Любимый цвет №{0}: {1}", i + 1, arr[i]);
             }
-        } //  Выводит элементы массива в консоль
+        } 
 
         static void Main(string[] args)
         {

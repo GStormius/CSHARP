@@ -1,0 +1,15 @@
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_5\lesson_5.5_5.5.8\bin\Debug\net5.0\lesson_5.5_5.5.8.exe
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_5\lesson_5.5_5.5.8\bin\Debug\net5.0\lesson_5.5_5.5.8.deps.json
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_5\lesson_5.5_5.5.8\bin\Debug\net5.0\lesson_5.5_5.5.8.runtimeconfig.json
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_5\lesson_5.5_5.5.8\bin\Debug\net5.0\lesson_5.5_5.5.8.runtimeconfig.dev.json
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_5\lesson_5.5_5.5.8\bin\Debug\net5.0\lesson_5.5_5.5.8.dll
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_5\lesson_5.5_5.5.8\bin\Debug\net5.0\ref\lesson_5.5_5.5.8.dll
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_5\lesson_5.5_5.5.8\bin\Debug\net5.0\lesson_5.5_5.5.8.pdb
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_5\lesson_5.5_5.5.8\obj\Debug\net5.0\lesson_5.5_5.5.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_5\lesson_5.5_5.5.8\obj\Debug\net5.0\lesson_5.5_5.5.8.AssemblyInfoInputs.cache
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_5\lesson_5.5_5.5.8\obj\Debug\net5.0\lesson_5.5_5.5.8.AssemblyInfo.cs
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_5\lesson_5.5_5.5.8\obj\Debug\net5.0\lesson_5.5_5.5.8.csproj.CoreCompileInputs.cache
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_5\lesson_5.5_5.5.8\obj\Debug\net5.0\lesson_5.5_5.5.8.dll
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_5\lesson_5.5_5.5.8\obj\Debug\net5.0\ref\lesson_5.5_5.5.8.dll
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_5\lesson_5.5_5.5.8\obj\Debug\net5.0\lesson_5.5_5.5.8.pdb
+C:\Users\mrnik\Desktop\C#\CSHARP_SkillFactory\modul_5\lesson_5.5_5.5.8\obj\Debug\net5.0\lesson_5.5_5.5.8.genruntimeconfig.cache

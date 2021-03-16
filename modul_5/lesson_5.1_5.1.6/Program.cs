@@ -21,7 +21,7 @@ namespace lesson_5._1_5._1._6
             Console.WriteLine();
 
             return result;
-        } // Создание и заполнение массива с консоли
+        } 
 
 
         static void ArraySorted(int[] arr)
@@ -42,7 +42,7 @@ namespace lesson_5._1_5._1._6
                 if (f == 0)
                     break;
             }
-        }  // Пузырьковая сортировка массива
+        }  
 
 
         static void GetArray(int[] arr)
@@ -53,7 +53,7 @@ namespace lesson_5._1_5._1._6
             }
 
             Console.WriteLine();
-        }
+        }  
 
         static void Main(string[] args)
         {                        

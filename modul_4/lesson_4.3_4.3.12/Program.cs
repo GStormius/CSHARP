@@ -28,7 +28,7 @@ namespace lesson_4._3_4._3._12
 
             return arr = myArray;
 
-        }  // Вариант с применением дополнительного массива
+        }  
 
         static void arraySortedBuf(int[] arr)
         {
@@ -80,7 +80,7 @@ namespace lesson_4._3_4._3._12
             }
 
             Console.WriteLine();
-        } // Вывод элементов массива на консоль
+        } 
 
         static void Main(string[] args)
         {
